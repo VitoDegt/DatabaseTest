@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFrameworkRealization.exe.config
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFrameworkRealization.exe
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFrameworkRealization.pdb
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\obj\Debug\EntityFrameworkRealization.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\obj\Debug\EntityFrameworkRealization.exe
+c:\users\student\documents\visual studio 2015\Projects\DatabaseTest\EntityFrameworkRealization\obj\Debug\EntityFrameworkRealization.pdb
